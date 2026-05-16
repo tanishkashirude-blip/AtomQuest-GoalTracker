@@ -298,3 +298,9 @@
     inset: -1px;
   }
 }
+
+[data-replit-badge],
+.replit-badge,
+#replit-badge {
+  display: none !important;
+}
