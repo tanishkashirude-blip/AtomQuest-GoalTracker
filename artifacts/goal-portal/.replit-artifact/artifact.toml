@@ -4,6 +4,7 @@ title = "Goal Setting & Tracking Portal"
 version = "1.0.0"
 id = "artifacts/goal-portal"
 router = "path"
+showBadge = false
 
 [[integratedSkills]]
 name = "react-vite"
