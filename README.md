@@ -9,9 +9,9 @@
 
 | Role | Email | Password |
 |------|-------|----------|
-| Employee | employee@test.com | (employee@test.com) |
-| Manager | manager@test.com | (manager@test.com) |
-| Admin | admin@test.com | (admin@test.com) |
+| Employee | employee@test.com | (Test@123) |
+| Manager | manager@test.com | (Test@123) |
+| Admin | admin@test.com | (Test@123) |
 
 ## 📌 Problem Statement
 GoalTrack is a structured, digital Goal Setting & Tracking Portal that supports the full lifecycle of employee goals — from creation and approval to quarterly check-ins and performance visibility.
